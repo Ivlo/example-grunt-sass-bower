@@ -1,0 +1,9 @@
+body {
+  background-color: #ff;
+  border: 1px solid red; }
+  body p {
+    border: 1px solid pink;
+    font-size: 14px; }
+    body p span {
+      font-weight: bold;
+      font-size: 18px; }
